@@ -2,6 +2,13 @@
 
 ## FestivalWarpsV2 for Girafarig's Horny Festivals a Stardew Valley Mod
 
+#### Changes from Girafarig's version,
+
+- Fix a bug where you could not click the cancel button after the dialog to leave the festival opened
+- Heavily optimize the mod
+
+
+#### License,
 
 This is free and unencumbered software released into the public domain.
 
