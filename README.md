@@ -5,7 +5,7 @@
 #### Changes from Girafarig's version,
 
 - Fix a bug where you could not click the cancel button after the dialog to leave the festival opened
-- Heavily optimize the mod
+- Heavily optimized the mod
 
 
 #### License,
